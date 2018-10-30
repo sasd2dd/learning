@@ -1,0 +1,5 @@
+
+de {
+    checkout scm 
+    /* .. snip .. */
+}
