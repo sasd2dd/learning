@@ -1,4 +1,2 @@
 import sys
-sfdsdf
-sdfs
-expermiental
+print("running python program")
