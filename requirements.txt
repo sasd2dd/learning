@@ -1,4 +1,4 @@
 pytest
 pytest-cov
 pylint
-zip
+zip==0.0.2
