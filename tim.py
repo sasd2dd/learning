@@ -1,2 +1,2 @@
 import sys
-print("running  python3 prgram")
+print("running  python3 program")
