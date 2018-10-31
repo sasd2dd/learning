@@ -1,4 +1,4 @@
-setuptools
+setuptools==40.5.0
 pytest
 pytest-cov
 pylint
