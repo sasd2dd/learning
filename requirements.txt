@@ -2,4 +2,4 @@ setuptools==40.5.0
 pytest
 pytest-cov
 pylint
-#zip==0.0.2
+zipfile
